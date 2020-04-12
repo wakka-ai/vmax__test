@@ -1,3 +1,3 @@
 print('a')
 
-raise Exception("how are you today")
+raise Exception("how are you today buddy!!!")
