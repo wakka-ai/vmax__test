@@ -1,3 +1,3 @@
 print('a')
 
-raise Exception("how are abc!!!")
+raise Exception("how are ABCDEF!!!")
